@@ -1,0 +1,20 @@
+{
+    "name": "omerfdmrl/logger",
+    "description": "Php Logger Class",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Omerfdmrl\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Omer Faruk Demirel",
+            "email": "info@omerfd.com"
+        }
+    ],
+    "require": {
+        "jenssegers/agent": "^2.6"
+    }
+}
