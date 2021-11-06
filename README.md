@@ -2,7 +2,11 @@
 
 Advanced Security Class for Php
 
-
+[![Latest Stable Version](http://poser.pugx.org/omerfdmrl/logger/v)](https://packagist.org/packages/omerfdmrl/logger) 
+[![Total Downloads](http://poser.pugx.org/omerfdmrl/logger/downloads)](https://packagist.org/packages/omerfdmrl/logger) 
+[![Latest Unstable Version](http://poser.pugx.org/omerfdmrl/logger/v/unstable)](https://packagist.org/packages/omerfdmrl/logger) 
+[![License](http://poser.pugx.org/omerfdmrl/logger/license)](https://packagist.org/packages/omerfdmrl/logger) 
+[![PHP Version Require](http://poser.pugx.org/omerfdmrl/logger/require/php)](https://packagist.org/packages/omerfdmrl/logger)
 
 ### Features
 - Save User IP Address, Device, Platform, Platform Version, Browser, Browser Version, Log Title, Log Message, Log Date, Log Type
